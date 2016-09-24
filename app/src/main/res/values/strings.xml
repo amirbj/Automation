@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name"> پایا اتوماسیون</string>
+    <string name="toobar_title">پایا</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="about">درباره پایا</string>
+    <string name="archive">آرشیو</string>
+    <string name="portabl">پرتابل</string>
+
+<string-array name="navItems">
+  <item>کارتابل</item>
+    <item>آرشیو</item>
+    <item>درباره ما</item>
+
+</string-array>
+<string-array name="navIcon">
+    <item>@drawable/ic_menu_archive</item>
+    <item>@drawable/ic_menu_home</item>
+    <item>@drawable/ic_menu_delete</item>
+    <item>@drawable/icon1</item>
+    <item>@drawable/archiveic</item>
+    <item>@drawable/homeicon</item>
+    <item>@drawable/icon1</item>
+    <item>@drawable/archiveic</item>
+    <item>@drawable/homeicon</item>
+    <item>@drawable/icon1</item>
+    <item>@drawable/archiveic</item>
+    <item>@drawable/homeicon</item>
+
+</string-array>
+
+</resources>
